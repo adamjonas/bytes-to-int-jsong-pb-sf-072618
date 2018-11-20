@@ -1,4 +1,1 @@
-{
-  "test/index_test.py::HelperTest::test_int_to_little_endian": true,
-  "test/index_test.py::HelperTest::test_little_endian_to_int": true
-}
+{}
